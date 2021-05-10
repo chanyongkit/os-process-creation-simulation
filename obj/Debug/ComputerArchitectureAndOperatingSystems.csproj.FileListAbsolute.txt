@@ -1,0 +1,20 @@
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\bin\Debug\ComputerArchitectureAndOperatingSystems.exe.config
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.Properties.Resources.resources
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.csproj.GenerateResource.Cache
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\bin\Debug\ComputerArchitectureAndOperatingSystems.exe
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\bin\Debug\ComputerArchitectureAndOperatingSystems.pdb
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.exe
+c:\users\jun\documents\visual studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.pdb
+C:\Users\Jun\Documents\Visual Studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.Forms.Interface.resources
+C:\Users\Jun\Documents\Visual Studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.Forms.Settings.resources
+C:\Users\Jun\Documents\Visual Studio 2015\Projects\ComputerArchitectureAndOperatingSystems Solution\ComputerArchitectureAndOperatingSystems\obj\Debug\ComputerArchitectureAndOperatingSystems.csprojResolveAssemblyReference.cache
+E:\TP\Year3.2\Caos\bin\Debug\ComputerArchitectureAndOperatingSystems.exe.config
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.exe
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.pdb
+E:\TP\Year3.2\Caos\bin\Debug\ComputerArchitectureAndOperatingSystems.exe
+E:\TP\Year3.2\Caos\bin\Debug\ComputerArchitectureAndOperatingSystems.pdb
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.csprojResolveAssemblyReference.cache
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.Forms.Interface.resources
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.Forms.Settings.resources
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.Properties.Resources.resources
+E:\TP\Year3.2\Caos\obj\Debug\ComputerArchitectureAndOperatingSystems.csproj.GenerateResource.Cache

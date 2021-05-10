@@ -1,0 +1,12 @@
+
+Process 1:
+ Arrival Time - 2s
+ Burst Time - 1s
+ Size of Process - 139kb
+
+Process 2:
+ Arrival Time - 0s
+ Burst Time - 3s
+ Size of Process - 94kb
+
+
